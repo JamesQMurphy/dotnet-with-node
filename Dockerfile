@@ -1,3 +1,7 @@
+#
+#  This Dockerfile is based on the first example from here:
+#  https://github.com/aspnet/Announcements/issues/298
+#
 FROM microsoft/dotnet:2.1-sdk
 WORKDIR /app
 
